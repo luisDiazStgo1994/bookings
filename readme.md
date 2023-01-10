@@ -1,5 +1,8 @@
-# Bookings
+# bookings and reservations
 
-The repository for [Building Modern Web Applications with Go](https://www.udemy.com/course/building-modern-web-applications-with-go/?referralCode=0415FB906223F10C6800).
+This is a repository for my bookins and reservations project
 
-
+-Built in go version 1.1.5
+-Uses the chi router
+-Uses alex edwards SVS session management
+-Uses [nosurf] 
